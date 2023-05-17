@@ -1,8 +1,11 @@
-### Hi there 👋
+### About me
+Frontend develover at [DigitalButlers](https://digitalbutlers.me/).
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirillsakun&show_icons=true&theme=vue-dark)
+### Stats
+![Kirill's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirillsakun&show_icons=true&theme=vue-dark&count_private=true)
 
 <!--
+
 **kirillsakun/kirillsakun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
