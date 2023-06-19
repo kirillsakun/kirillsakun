@@ -1,5 +1,5 @@
 ### About me
-Frontend develover at [DigitalButlers](https://digitalbutlers.me/).
+Frontend develover at [DigitalButlers](https://digitalbutlers.team/).
 
 ### Stats
 ![Kirill's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirillsakun&show_icons=true&theme=vue-dark&count_private=true)
